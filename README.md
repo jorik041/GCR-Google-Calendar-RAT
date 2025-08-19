@@ -120,4 +120,6 @@ IT IS JUST A POC IN PYTHON, PLEASE DO NOT ASK ME HOW TO WEAPONIZE IT!
 ## Similar (External) Projects
 - [GSR - Google-Slides-RAT (by [Me] MrSaighnal)](https://github.com/MrSaighnal/GSR-Google-Slides-RAT)
 
+- [GSSOCKS - Google Sheets SOCKS (by [Me] MrSaighnal)])(https://github.com/MrSaighnal/google-sheets-socks)
+
 - [GC2-Sheet (by Lorenzo Grazian)](https://github.com/looCiprian/GC2-sheet)
